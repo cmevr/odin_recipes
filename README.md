@@ -1,2 +1,2 @@
 # odin_recipes
-Creating my first html project within the odin project course, a recipe website.
+Creating my first html project within the Odin Project course, a recipe website.
